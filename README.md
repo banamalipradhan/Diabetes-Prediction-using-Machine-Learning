@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="cover page/cover_page.png" width="800" alt="Diabetes Prediction using Machine Learning">
+</p>
 
 
 
