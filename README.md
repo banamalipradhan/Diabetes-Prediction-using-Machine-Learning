@@ -83,7 +83,8 @@ The model generalizes well to unseen data with minimal overfitting.
 - Scikit-Learn  
 - Jupyter Notebook  
 
----
 
-## Project Structure
-
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
